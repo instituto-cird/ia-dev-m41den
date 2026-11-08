@@ -282,3 +282,8 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
+
+## Autor/a
+**Nombre:** Valeria Jara
+**Ciudad:** Villarrica
+**Qué me gustaría construir en el programa:** Integrar la IA en todo el ciclo de desarrollo y dirigirla con criterio profesional.
